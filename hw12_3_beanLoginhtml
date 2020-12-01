@@ -1,0 +1,19 @@
+<!doctype html> <!-- hw12_3_beanLoginhtml.html -->
+<html>
+<head>
+ <meta charset="utf-8"/>
+ <meta name="viewport" content="width=device-width,initial-scale=1"/>
+ <title>개인 과제 리스트</title>
+ <style>
+ a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+ a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+ </style>
+</head>
+<body>
+ <h2>hw12_3_beanLoginhtml</h2>
+  <h3>소스 코드</h3>
+ <img src="https://user-images.githubusercontent.com/70563769/100717580-95543b80-33fd-11eb-8c54-44f6863c4966.JPG">   
+  <h3>실행 예시</h3>
+ <img src="https://user-images.githubusercontent.com/70563769/100717592-97b69580-33fd-11eb-8ccd-8f90b503dad0.JPG">   
+</body>
+</html>
